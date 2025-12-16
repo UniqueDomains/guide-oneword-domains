@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .GUIDE one-word domains still available to buy.
 
-This dataset contains 7,366 .GUIDE one word domains with availability, attractiveness and demand scores.
+This dataset contains 7,364 .GUIDE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.GUIDE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=guide-oneword-domains&utm_content=description.top) (7,365) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.GUIDE one word domain
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/guide-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/guide-oneword-domains/blob/main/guide.csv"><b>⬇️ CSV (7.37K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/guide-oneword-domains/blob/main/guide.json"><b>⬇️ JSON (7.37K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/guide-oneword-domains/blob/main/guide.csv"><b>⬇️ CSV (7.36K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/guide-oneword-domains/blob/main/guide.json"><b>⬇️ JSON (7.36K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=guide-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (7.37K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -44,18 +44,18 @@ If you want to search & filters the complete database of [.GUIDE one word domain
 | aberrant.guide   | available | 74       | 7%     | 8      |                 |                  |                  |
 | abeyant.guide    | available | 56       | 2%     | 7      |                 |                  |                  |
 | abhorrent.guide  | available | 54       | 1%     | 9      |                 |                  |                  |
-| abide.guide      | available | 94       | 15%    | 5      |                 |                  |                  |
 | abiding.guide    | available | 106      | 5%     | 7      |                 |                  |                  |
 | abient.guide     | available | 54       | 1%     | 6      |                 |                  |                  |
 | abit.guide       | available | 66       | 12%    | 5      |                 |                  |                  |
 | abject.guide     | available | 94       | 8%     | 6      |                 |                  |                  |
 | abkhas.guide     | available | 68       | 1%     | 6      |                 |                  |                  |
 | abkhasian.guide  | available | 78       | 1%     | 9      |                 |                  |                  |
+| abkhaz.guide     | available | 82       | 2%     | 6      |                 |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/guide-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/guide-oneword-domains/blob/main/guide.csv"><b>⬇️ CSV (7.37K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/guide-oneword-domains/blob/main/guide.json"><b>⬇️ JSON (7.37K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/guide-oneword-domains/blob/main/guide.csv"><b>⬇️ CSV (7.36K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/guide-oneword-domains/blob/main/guide.json"><b>⬇️ JSON (7.36K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=guide-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (7.37K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.GUIDE one word domain
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,281       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 62,232       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,157,142    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 5,157,759    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
