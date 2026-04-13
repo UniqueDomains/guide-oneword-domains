@@ -78,7 +78,7 @@ print(df.head())
 | all.guide          | premium   | $42.90    | $42.90        | 88             | 48     | 3      | namecheap                                                 |
 | sharp.guide        | available | $10.99    | $57.99        | 84             | 36     | 5      | name.com                                                  |
 | data.guide         | resell    | —         | —             | 70             | 56     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| green.guide        | premium   | $128.70   | $128.70       | 108            | 45     | 5      | namecheap                                                 |
+| green.guide        | premium   | $128.70   | $128.70       | 108            | 44     | 5      | namecheap                                                 |
 | aaron.guide        | available | $54.48    | —             | 88             | 35     | 5      | namecheap                                                 |
 | email.guide        | resell    | —         | —             | 106            | 54     | 6      | GoDaddy.com, LLC                                          |
 | food.guide         | premium   | $11,700   | $11,700       | 94             | 44     | 4      | namecheap                                                 |
