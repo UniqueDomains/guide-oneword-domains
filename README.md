@@ -1,22 +1,22 @@
-# Available .GUIDE One-Word Domains (8,325)
+# Available .GUIDE One-Word Domains (10,585)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C325%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C325%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C585%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .guide one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .guide one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,585 domains** on the canonical page below.
 
-**Public extract:** 8,325 rows · **Live catalog:** 8,325 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,585 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/guide`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .GUIDE one-word domain
 
 ### Files
 
-- `guide.csv` — public CSV extract (8,325 rows)
-- `guide.json` — public JSON extract (8,325 rows)
+- `guide.csv` — public CSV extract (1,000 rows)
+- `guide.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| snap.guide         | available | $10.99    | $57.99        | 90             | 46     | 4      | name.com                                                  |
-| artificial.guide   | resell    | —         | —             | 68             | 98     | 10     | Dynadot Inc                                               |
-| sex.guide          | premium   | $500      | —             | 80             | 59     | 3      | name.com                                                  |
-| swap.guide         | available | $10.99    | —             | 80             | 39     | 4      | name.com                                                  |
-| entrepreneur.guide | resell    | —         | —             | 78             | 80     | 12     | Porkbun LLC                                               |
-| ace.guide          | premium   | $42.90    | $42.90        | 88             | 57     | 3      | namecheap                                                 |
-| conscious.guide    | available | $10.99    | $57.99        | 89             | 38     | 9      | name.com                                                  |
-| office.guide       | resell    | —         | —             | 100            | 58     | 6      | DomainSite, Inc.                                          |
-| true.guide         | premium   | $500      | $500          | 86             | 52     | 4      | name.com                                                  |
-| unify.guide        | available | $10.99    | $57.99        | 72             | 38     | 5      | name.com                                                  |
-| the.guide          | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH                                                 |
-| all.guide          | premium   | $42.90    | $42.90        | 88             | 48     | 3      | namecheap                                                 |
-| sharp.guide        | available | $10.99    | $57.99        | 84             | 36     | 5      | name.com                                                  |
-| data.guide         | resell    | —         | —             | 70             | 56     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| green.guide        | premium   | $128.70   | $128.70       | 108            | 44     | 5      | namecheap                                                 |
-| aaron.guide        | available | $54.48    | —             | 88             | 35     | 5      | namecheap                                                 |
-| email.guide        | resell    | —         | —             | 106            | 54     | 6      | GoDaddy.com, LLC                                          |
-| food.guide         | premium   | $11,700   | $11,700       | 94             | 44     | 4      | namecheap                                                 |
-| goon.guide         | available | $10.99    | $57.99        | 80             | 35     | 5      | name.com                                                  |
-| link.guide         | resell    | —         | —             | 68             | 54     | 4      | Hosting Concepts B.V. d/b/a Registrar.eu                  |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
+| lets.guide         | available | $10.99    | —             | 77             | 39     | 4      | name.com      |
+| wave.guide         | resell    | —         | —             | 78             | 45     | 4      | Porkbun LLC   |
+| partners.guide     | premium   | $123.75   | —             | 61             | 32     | 8      | name.com      |
+| Cats.guide         | available | $54.48    | —             | 59             | 33     | 4      | namecheap     |
+| Your.guide         | resell    | —         | —             | 68             | 45     | 4      | Porkbun LLC   |
+| solutions.guide    | premium   | $500      | —             | 56             | 31     | 9      | name.com      |
+| William.guide      | available | $54.48    | —             | 74             | 31     | 7      | namecheap     |
+| WiFi.guide         | resell    | —         | —             | 83             | 37     | 5      | NameSilo, LLC |
+| Jim.guide          | premium   | $138.60   | $138.60       | 78             | 28     | 3      | namecheap     |
+| spaces.guide       | available | $10.99    | —             | 54             | 30     | 6      | name.com      |
+| room.guide         | resell    | —         | —             | 90             | 31     | 4      | Porkbun LLC   |
+| photos.guide       | premium   | $82.50    | —             | 54             | 28     | 6      | name.com      |
+| popup.guide        | available | $10.99    | —             | 84             | 29     | 6      | name.com      |
+| brands.guide       | resell    | —         | —             | 62             | 28     | 6      | Dynadot Inc   |
+| systems.guide      | premium   | $500      | —             | 46             | 27     | 7      | name.com      |
+| heroes.guide       | available | $10.99    | —             | 68             | 29     | 6      | name.com      |
+| traders.guide      | resell    | —         | —             | 60             | 26     | 7      | Dynadot Inc   |
+| has.guide          | premium   | $123.75   | —             | 60             | 26     | 3      | name.com      |
+| commonground.guide | available | $10.99    | —             | 74             | 28     | 13     | name.com      |
+| designers.guide    | resell    | —         | —             | 72             | 15     | 9      | Porkbun LLC   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,325-row public sample | 8,325 live domains                               |
+| 1,000-row public sample | 10,585 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GUIDE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GUIDE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
