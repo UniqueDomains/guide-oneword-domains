@@ -65,10 +65,10 @@ print(df.head())
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
 | lets.guide         | available | $10.99    | —             | 77             | 39     | 4      | name.com      |
-| wave.guide         | resell    | —         | —             | 78             | 45     | 4      | Porkbun LLC   |
+| Your.guide         | resell    | —         | —             | 68             | 59     | 4      | Porkbun LLC   |
 | partners.guide     | premium   | $123.75   | —             | 61             | 32     | 8      | name.com      |
 | Cats.guide         | available | $54.48    | —             | 59             | 33     | 4      | namecheap     |
-| Your.guide         | resell    | —         | —             | 68             | 45     | 4      | Porkbun LLC   |
+| wave.guide         | resell    | —         | —             | 78             | 45     | 4      | Porkbun LLC   |
 | solutions.guide    | premium   | $500      | —             | 56             | 31     | 9      | name.com      |
 | William.guide      | available | $54.48    | —             | 74             | 31     | 7      | namecheap     |
 | WiFi.guide         | resell    | —         | —             | 83             | 37     | 5      | NameSilo, LLC |
