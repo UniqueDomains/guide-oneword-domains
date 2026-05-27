@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .guide one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,110 domains · **Median ask:** $20.57 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/guide`  
 **Best for:** founders, investors, studios
 
@@ -66,7 +66,7 @@ print(df.head())
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
 | lets.guide         | available | $10.99    | —             | 77             | 39     | 4      | name.com      |
 | Your.guide         | resell    | —         | —             | 68             | 59     | 4      | Porkbun LLC   |
-| partners.guide     | premium   | $123.75   | —             | 61             | 32     | 8      | name.com      |
+| partners.guide     | premium   | $123.75   | —             | 61             | 31     | 8      | name.com      |
 | Cats.guide         | available | $54.48    | —             | 59             | 33     | 4      | namecheap     |
 | wave.guide         | resell    | —         | —             | 78             | 45     | 4      | Porkbun LLC   |
 | solutions.guide    | premium   | $500      | —             | 56             | 31     | 9      | name.com      |
@@ -80,7 +80,7 @@ print(df.head())
 | brands.guide       | resell    | —         | —             | 62             | 28     | 6      | Dynadot Inc   |
 | systems.guide      | premium   | $500      | —             | 46             | 27     | 7      | name.com      |
 | commonground.guide | available | $10.99    | —             | 74             | 28     | 13     | name.com      |
-| traders.guide      | resell    | —         | —             | 60             | 26     | 7      | Dynadot Inc   |
+| traders.guide      | resell    | —         | —             | 60             | 25     | 7      | Dynadot Inc   |
 | has.guide          | premium   | $123.75   | —             | 60             | 26     | 3      | name.com      |
 | Keith.guide        | available | $54.48    | —             | 66             | 25     | 5      | namecheap     |
 | designers.guide    | resell    | —         | —             | 72             | 15     | 9      | Porkbun LLC   |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GUIDE One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GUIDE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
