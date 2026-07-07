@@ -1,10 +1,10 @@
-# Available .GUIDE One-Word Domains (11,110)
+# Available .GUIDE One-Word Domains (11,111)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C110%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C111%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .guide one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,110 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,111 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,110 domains · **Median ask:** $20.57 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,111 domains · **Median ask:** $18.70 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/guide`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/guide`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .GUIDE one-word domain
 
 ### Files
 
-- `guide.csv` — public CSV extract (1,000 rows)
-- `guide.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `guide.csv`, public CSV extract (1,000 rows)
+- `guide.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
-| lets.guide         | available | $10.99    | —             | 77             | 39     | 4      | name.com      |
-| Your.guide         | resell    | —         | —             | 68             | 59     | 4      | Porkbun LLC   |
-| partners.guide     | premium   | $123.75   | —             | 61             | 31     | 8      | name.com      |
-| Cats.guide         | available | $54.48    | —             | 59             | 33     | 4      | namecheap     |
-| wave.guide         | resell    | —         | —             | 78             | 45     | 4      | Porkbun LLC   |
-| solutions.guide    | premium   | $500      | —             | 56             | 31     | 9      | name.com      |
-| William.guide      | available | $54.48    | —             | 74             | 31     | 7      | namecheap     |
-| WiFi.guide         | resell    | —         | —             | 83             | 37     | 5      | NameSilo, LLC |
-| Jim.guide          | premium   | $138.60   | $138.60       | 78             | 28     | 3      | namecheap     |
-| spaces.guide       | available | $10.99    | —             | 54             | 30     | 6      | name.com      |
-| room.guide         | resell    | —         | —             | 90             | 31     | 4      | Porkbun LLC   |
-| photos.guide       | premium   | $82.50    | —             | 54             | 28     | 6      | name.com      |
-| heroes.guide       | available | $10.99    | —             | 68             | 29     | 6      | name.com      |
-| brands.guide       | resell    | —         | —             | 62             | 28     | 6      | Dynadot Inc   |
-| systems.guide      | premium   | $500      | —             | 46             | 27     | 7      | name.com      |
-| commonground.guide | available | $10.99    | —             | 74             | 28     | 13     | name.com      |
-| traders.guide      | resell    | —         | —             | 60             | 25     | 7      | Dynadot Inc   |
-| has.guide          | premium   | $123.75   | —             | 60             | 26     | 3      | name.com      |
-| Keith.guide        | available | $54.48    | —             | 66             | 25     | 5      | namecheap     |
-| designers.guide    | resell    | —         | —             | 72             | 15     | 9      | Porkbun LLC   |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| CNN.guide       | available | $10.99    | —             | high           | low    | 3      | name.com                                                  |
+| corporate.guide | resell    | $10.99    | —             | high           | low    | 9      | Dynadot Inc                                               |
+| ace.guide       | premium   | $42.90    | $42.90        | high           | medium | 3      | namecheap                                                 |
+| ole.guide       | available | $10.99    | —             | high           | low    | 3      | name.com                                                  |
+| bio.guide       | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                                              |
+| Ann.guide       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| yur.guide       | available | $10.99    | —             | high           | low    | 3      | name.com                                                  |
+| fly.guide       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
+| ash.guide       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
+| also.guide      | available | $10.99    | —             | high           | low    | 4      | name.com                                                  |
+| auto.guide      | resell    | —         | —             | medium         | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| bid.guide       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| away.guide      | available | $10.99    | —             | high           | low    | 4      | name.com                                                  |
+| info.guide      | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 22                                         |
+| bug.guide       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| babe.guide      | available | $10.99    | —             | high           | low    | 4      | name.com                                                  |
+| palm.guide      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
+| don.guide       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| beat.guide      | available | $10.99    | —             | high           | low    | 4      | name.com                                                  |
+| pick.guide      | resell    | —         | —             | medium         | low    | 4      | NameCheap, Inc.                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,110 live domains                        |
+| 1,000-row public sample | 11,111 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely .guide domains, a TLD that signals instruction, explanation, and topic-specific expertise. Names such as verse.guide, peace.guide, recap.guide, and gooutside.guide show the range: some are clean and memorable, while others are more literal or phrase-based. The median ask is 20.57, which keeps price comparison straightforward across a large set of 11,107 domains. When comparing these domains, start with exact meaning and audience fit. Short, common words can feel stronger, but they also need closer trademark review. Phrase-style names can be clearer for content-led projects, though usually less compact as brands.
+This is a set of one-word .guide domains built around clear, descriptive names — from event-based terms like gettogether.guide and midDecember.guide to service and hobby terms such as landscaping.guide, furnishings.guide, and chaitea.guide. The .guide extension signals how-to, tutorial, and reference content, making these names easy to position for content-driven or service-based projects. With a median asking price near $18.70, most listings sit at an accessible price point for testing a single-word brand or building a portfolio across many descriptive terms. Updated daily, this list reflects current asking prices across thousands of available .guide names.
 
-- All names in this selection use the .guide TLD
-- Median ask across the set is 20.57
-- Short, clear words usually read better on .guide
-- Screen carefully for trademark issues like pepsi.guide
+- 11,111 one-word .guide domains tracked in this set
+- Median asking price near $18.70 — low entry cost
+- Themes span events, hobbies, services & how-to topics
+- Updated daily for current pricing and availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GUIDE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GUIDE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
