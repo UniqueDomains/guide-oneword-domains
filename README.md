@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .guide one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,449 domains · **Median ask:** $21.10 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-17
 **Canonical page:** `https://unique.domains/domains/tld/guide`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| away.guide      | available | $10.99    | —             | high           | low    | 4      | name.com                                                  |
 | CNN.guide       | available | $10.99    | —             | high           | low    | 3      | name.com                                                  |
 | corporate.guide | resell    | $10.99    | —             | high           | low    | 9      | Dynadot Inc                                               |
 | ace.guide       | premium   | $42.90    | $42.90        | high           | medium | 3      | namecheap                                                 |
@@ -83,7 +84,6 @@ print(df.head())
 | palm.guide      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
 | don.guide       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
 | also.guide      | available | $10.99    | —             | high           | low    | 4      | name.com                                                  |
-| pick.guide      | resell    | —         | —             | medium         | low    | 4      | NameCheap, Inc.                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GUIDE One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GUIDE One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
