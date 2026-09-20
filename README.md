@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .guide one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,519 domains · **Median ask:** $23.72 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/guide`
 **Best for:** founders, investors, studios
 
@@ -64,12 +64,12 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| CNN.guide       | available | $10.99    | —             | high           | low    | 3      | name.com                                                  |
+| cnn.guide       | available | $10.99    | —             | high           | low    | 3      | name.com                                                  |
 | corporate.guide | resell    | $10.99    | —             | high           | low    | 9      | Dynadot Inc                                               |
 | ace.guide       | premium   | $42.90    | $42.90        | high           | medium | 3      | namecheap                                                 |
 | ixl.guide       | available | $10.99    | $57.99        | low            | low    | 3      | name.com                                                  |
 | bio.guide       | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                                              |
-| Ann.guide       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| ann.guide       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
 | lxi.guide       | available | $10.99    | $57.99        | low            | low    | 3      | name.com                                                  |
 | fly.guide       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
 | ash.guide       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GUIDE One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GUIDE One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
