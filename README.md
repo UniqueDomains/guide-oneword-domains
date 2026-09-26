@@ -1,10 +1,10 @@
-# Available .GUIDE One-Word Domains (30,550)
+# Available .GUIDE One-Word Domains (20,639)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C550%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C639%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .guide one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,550 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **20,639 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,550 domains · **Median ask:** $28.33 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 20,639 domains · **Median ask:** $31.94 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/guide`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| display.guide    | available | $41.49    | $41.49        | high           | low    | 7      | namesilo         |
-| recovery.guide   | resell    | —         | —             | high           | low    | 8      | Sav.com, LLC     |
-| clearance.guide  | premium   | $118.80   | $118.80       | high           | low    | 9      | namesilo         |
-| provisions.guide | available | $41.49    | $41.49        | high           | low    | 10     | namesilo         |
-| cent.guide       | available | $41.49    | $41.49        | high           | low    | 4      | namesilo         |
-| from.guide       | available | $41.49    | $41.49        | high           | low    | 4      | namesilo         |
-| approval.guide   | available | $41.49    | $41.49        | high           | low    | 8      | namesilo         |
-| bce.guide        | available | $10.99    | —             | high           | low    | 3      | name.com         |
-| bio.guide        | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC     |
-| aid.guide        | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| cnn.guide        | available | $10.99    | —             | high           | low    | 3      | name.com         |
-| bro.guide        | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| ala.guide        | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
-| ixl.guide        | available | $10.99    | $57.99        | medium         | low    | 3      | name.com         |
-| lol.guide        | resell    | —         | —             | high           | low    | 3      | Porkbun LLC      |
-| ann.guide        | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| liv.guide        | available | $10.99    | $57.99        | high           | low    | 3      | name.com         |
-| pot.guide        | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| ash.guide        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| lxi.guide        | available | $10.99    | $57.99        | medium         | low    | 3      | name.com         |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| adh.guide      | available | $41.49    | $41.49        | high           | low    | 3      | namesilo               |
+| bit.guide      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc            |
+| cry.guide      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo               |
+| asa.guide      | available | $41.49    | $41.49        | high           | low    | 3      | namesilo               |
+| demo.guide     | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC       |
+| dry.guide      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo               |
+| auc.guide      | available | $41.49    | $41.49        | high           | low    | 3      | namesilo               |
+| love.guide     | resell    | —         | —             | high           | medium | 4      | Realtime Register B.V. |
+| fad.guide      | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap              |
+| cnn.guide      | available | $10.99    | —             | high           | low    | 3      | name.com               |
+| simple.guide   | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 30      |
+| icy.guide      | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo               |
+| hic.guide      | available | $10.99    | —             | high           | low    | 3      | name.com               |
+| project.guide  | resell    | —         | —             | high           | medium | 7      | Sav.com, LLC - 7       |
+| inc.guide      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo               |
+| lxi.guide      | available | $10.99    | $57.99        | medium         | low    | 3      | name.com               |
+| touring.guide  | resell    | —         | —             | high           | low    | 7      | Dynadot Inc            |
+| llp.guide      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo               |
+| soh.guide      | available | $41.49    | $41.49        | medium         | low    | 3      | namesilo               |
+| almighty.guide | resell    | —         | —             | high           | low    | 8      | GoDaddy.com, LLC       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,550 live domains                        |
+| 1,000-row public sample | 20,639 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GUIDE One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GUIDE One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
