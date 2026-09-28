@@ -1,10 +1,10 @@
-# Available .GUIDE One-Word Domains (21,384)
+# Available .GUIDE One-Word Domains (21,863)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C384%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C863%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .guide one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **21,384 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,863 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 21,384 domains · **Median ask:** $32.50 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 21,863 domains · **Median ask:** $32.53 · **High-demand under $2,500:** 1
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/guide`
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
-| adh.guide      | available | $41.49    | $41.49        | high           | low    | 3      | namesilo               |
+| asa.guide      | available | $41.49    | $41.49        | high           | low    | 3      | namesilo               |
 | bit.guide      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc            |
 | cry.guide      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo               |
-| asa.guide      | available | $41.49    | $41.49        | high           | low    | 3      | namesilo               |
-| love.guide     | resell    | —         | —             | high           | medium | 4      | Realtime Register B.V. |
-| dry.guide      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo               |
 | auc.guide      | available | $41.49    | $41.49        | high           | low    | 3      | namesilo               |
-| simple.guide   | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 30      |
-| fad.guide      | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap              |
+| get.guide      | resell    | —         | —             | high           | high   | 3      | —                      |
+| dry.guide      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo               |
 | cnn.guide      | available | $10.99    | —             | high           | low    | 3      | name.com               |
-| project.guide  | resell    | —         | —             | high           | medium | 7      | Sav.com, LLC - 7       |
-| icy.guide      | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo               |
+| love.guide     | resell    | —         | —             | high           | medium | 4      | Realtime Register B.V. |
+| fad.guide      | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap              |
 | hic.guide      | available | $10.99    | —             | medium         | low    | 3      | name.com               |
-| touring.guide  | resell    | —         | —             | high           | low    | 7      | Dynadot Inc            |
+| simple.guide   | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 30      |
+| icy.guide      | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo               |
+| ioc.guide      | available | $6.10     | $34.14        | high           | low    | 3      | dynadot                |
+| project.guide  | resell    | —         | —             | high           | medium | 7      | Sav.com, LLC - 7       |
 | inc.guide      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo               |
 | lxi.guide      | available | $10.99    | $57.99        | medium         | low    | 3      | name.com               |
-| almighty.guide | resell    | —         | —             | high           | low    | 8      | GoDaddy.com, LLC       |
+| touring.guide  | resell    | —         | —             | high           | low    | 7      | Dynadot Inc            |
 | jaw.guide      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo               |
 | soh.guide      | available | $41.49    | $41.49        | medium         | low    | 3      | namesilo               |
-| cannabis.guide | resell    | —         | —             | high           | medium | 8      | Sav.com, LLC           |
+| almighty.guide | resell    | —         | —             | high           | low    | 8      | GoDaddy.com, LLC       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 21,384 live domains                        |
+| 1,000-row public sample | 21,863 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
