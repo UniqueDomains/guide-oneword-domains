@@ -1,10 +1,10 @@
-# Available .GUIDE One-Word Domains (23,729)
+# Available .GUIDE One-Word Domains (25,667)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C729%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C667%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .guide one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,729 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **25,667 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,729 domains · **Median ask:** $33.14 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 25,667 domains · **Median ask:** $33.65 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/guide`
 **Best for:** founders, investors, studios
 
@@ -66,13 +66,13 @@ print(df.head())
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
 | abu.guide     | available | $41.49    | $41.49        | high           | low    | 3      | namesilo               |
 | bit.guide     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc            |
-| cry.guide     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo               |
+| cry.guide     | premium   | $102.67   | $102.67       | high           | low    | 3      | spaceship              |
 | adi.guide     | available | $41.49    | $41.49        | high           | low    | 3      | namesilo               |
 | get.guide     | resell    | —         | —             | high           | high   | 3      | —                      |
 | dry.guide     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo               |
 | asa.guide     | available | $41.49    | $41.49        | high           | low    | 3      | namesilo               |
 | usa.guide     | resell    | —         | —             | high           | medium | 3      | —                      |
-| fad.guide     | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap              |
+| eel.guide     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo               |
 | auc.guide     | available | $41.49    | $41.49        | high           | low    | 3      | namesilo               |
 | love.guide    | resell    | —         | —             | high           | medium | 4      | Realtime Register B.V. |
 | icy.guide     | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo               |
@@ -82,7 +82,7 @@ print(df.head())
 | cnn.guide     | available | $10.99    | —             | high           | low    | 3      | name.com               |
 | project.guide | resell    | —         | —             | high           | medium | 7      | Sav.com, LLC - 7       |
 | jaw.guide     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo               |
-| ics.guide     | available | $41.49    | $41.49        | high           | low    | 3      | namesilo               |
+| coa.guide     | available | $41.49    | $41.49        | high           | low    | 3      | namesilo               |
 | touring.guide | resell    | —         | —             | high           | low    | 7      | Dynadot Inc            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,729 live domains                        |
+| 1,000-row public sample | 25,667 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 1 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GUIDE One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GUIDE One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
